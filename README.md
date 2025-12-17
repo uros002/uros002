@@ -66,7 +66,7 @@ Automatic categorization of user questions (banking domain)
 
 - 📧 Email: *(optional)*
 - 💼 LinkedIn: *(optional)*
-- 🌍 GitHub: https://github.com/YOUR_USERNAME
+- 🌍 GitHub: https://github.com/uros002
 
 ---
 

@@ -18,18 +18,18 @@
 
 ## 🛠️ Tech Stack
 
-### <h3 align="center">💻 Programming Languages</h3>
+ <h3 align="center">💻 Programming Languages</h3>
 <p align="center">
   
   <img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts,python,java,julia,xpp" />
 </p>
 
-### 🌐 Frameworks & Technology
+### <h3 align="center">🌐 Frameworks & Technology</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,dotnet,aspnet,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,dotnet,nodejs,tailwind" />
 </p>
 
-### 🗄️ Databases & Tools
+### <h3 align="center">🗄️ Databases & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,mysql,docker" />
 </p>

@@ -19,17 +19,17 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts,python,java,julia,xpp" />
 </p>
 
 ### 🌐 Frameworks & Technology
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,dotnet,aspnet,nodejs,tailwind" />
 </p>
 
 ### 🗄️ Databases & Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,mysql,docker" />
 </p>
 

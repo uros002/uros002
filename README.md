@@ -20,6 +20,7 @@
 
 ### 💻 Programming Languages
 <p align="center">
+  💻 Programming Languages + "\n"
   <img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts,python,java,julia,xpp" />
 </p>
 

@@ -42,9 +42,8 @@
 Web application for creating and solving quizzes  
 **Tech:** React, Tailwind CSS, C#, .NET  
 
-🔹 **Heap Manager (Bachelor Thesis)**  
-Memory management system with multithreading support  
-**Focus:** performance, fragmentation reduction, efficiency  
+🔹 **Agent-Based model of consumer behaviour and innovation diffusion (Bachelor Thesis)**  
+Bachelor thesis project focused on modeling consumer decisions and innovation spread using agent-based simulation  
 
 🔹 **User Question Categorization**  
 Automatic categorization of user questions (banking domain)

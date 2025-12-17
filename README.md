@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I'm Uroš Grahovac
 
-<!--
-**uros002/uros002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior Software Engineer  
+💻 Junior Backend / Full-Stack Developer  
+🚀 Passionate about .NET, C# and web application development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 👨‍💻 Junior developer focused on **C# / .NET**
+- 🏢 Experience working with **Microsoft Dynamics 365 Finance & Operations**
+- 🌐 Building **web applications** using modern frontend & backend technologies
+- 📊 Interested in **software architecture, clean code and performance**
+- 📚 Currently improving my skills in **distributed systems and backend development**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet" />
+</p>
+
+### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+</p>
+
+### 🗄️ Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,mssql,docker" />
+</p>
+
+---
+
+## 📌 Projects
+
+🔹 **QuizHub**  
+Web application for creating and solving quizzes  
+**Tech:** React, Tailwind CSS, C#, .NET  
+
+🔹 **Heap Manager (Bachelor Thesis)**  
+Memory management system with multithreading support  
+**Focus:** performance, fragmentation reduction, efficiency  
+
+🔹 **User Question Categorization**  
+Automatic categorization of user questions (banking domain)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 Email: *(optional)*
+- 💼 LinkedIn: *(optional)*
+- 🌍 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+⭐ Feel free to check out my repositories and leave a **star** if you like my work!

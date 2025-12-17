@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 👨‍💻 Junior developer focused on **C# / .NET**
+- 👨‍💻 Junior developer 
 - 🏢 Experience working with **Microsoft Dynamics 365 Finance & Operations**
 - 🌐 Building **web applications** using modern frontend & backend technologies
 - 📊 Interested in **software architecture, clean code and performance**
@@ -18,19 +18,19 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend
+### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts,python,java,julia,xpp" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frameworks & Technology
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,dotnet,aspnet,nodejs,tailwind" />
 </p>
 
 ### 🗄️ Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,mssql,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,mysql,docker" />
 </p>
 
 ---
@@ -51,10 +51,6 @@ Automatic categorization of user questions (banking domain)
 ---
 
 ## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=uros002&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uros002&layout=compact&theme=tokyonight" />

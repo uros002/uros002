@@ -64,8 +64,8 @@ Automatic categorization of user questions (banking domain)
 
 ## 📫 Contact
 
-- 📧 Email: *(optional)*
-- 💼 LinkedIn: *(optional)*
+- 📧 Email: urosgrahovac002@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/uros-grahovac/
 - 🌍 GitHub: https://github.com/uros002
 
 ---

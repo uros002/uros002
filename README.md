@@ -8,11 +8,11 @@
 
 ## 🧠 About Me
 
-- 👨‍💻 Junior developer 
+- 👨‍🏫 Former Teaching Demonstrator | Mentored 32+ students in Object-Oriented Programming
 - 🏢 Experience working with **Microsoft Dynamics 365 Finance & Operations**
 - 🌐 Building **web applications** using modern frontend & backend technologies
 - 📊 Interested in **software architecture, clean code and performance**
-- 📚 Currently improving my skills in **distributed systems and backend development**
+- 📚 Currently improving my skills in **distributed systems and backend development and WEB3 technologies**
 
 ---
 

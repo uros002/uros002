@@ -53,8 +53,11 @@ Automatic categorization of user questions (banking domain)
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uros002&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-vercel-gyewdz4ew-uros-projects-3515dba5.vercel.app/api/top-langs/?username=uros002&layout=compact&theme=tokyonight" />
 </p>
+
+![Top Langs](https://github-readme-stats-uros.vercel.app/api/top-langs/?username=uros002&layout=compact&theme=tokyonight)
+
 
 ---
 

@@ -2,7 +2,7 @@
 
 🎓 Junior Software Engineer  
 💻 Junior Backend / Full-Stack Developer  
-🚀 Passionate about .NET, C# and web application development
+🚀 Passionate about C#, .NET, web application development, security, and building custom ERP solutions using X++ and Microsoft Dynamics 365 Finance & Operations
 
 ---
 
